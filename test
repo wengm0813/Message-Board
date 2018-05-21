@@ -1,0 +1,6 @@
+npm run build
+
+
+mongo
+use node-angular
+db.messages.find()
